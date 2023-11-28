@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'CSC Election Archives'
+theme = 'smigle'
+
+[params]
+brandIconFile = 'images/brandIcon.png'
