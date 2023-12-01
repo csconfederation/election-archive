@@ -1,6 +1,6 @@
 +++
 title = 'Season 8 Admin Election'
-date = 2023-04-19T12:00:00-05:00
+date = 2022-04-19T12:00:00-05:00
 draft = false
 +++
 [Main Thread](/season-8/admin/s8-admin-election.html)
