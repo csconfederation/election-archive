@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://electionarchive.csconfederation.com/'
 languageCode = 'en-us'
 title = 'CSC Election Archives'
 theme = 'smigle'
